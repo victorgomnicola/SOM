@@ -1,7 +1,6 @@
 # SOM
 Código para treinar redes neurais do tipo Self-Organizing Maps (SOM)
 
-Código implementado pelos programadores: Rodrigo S. Hirama e Victor G. O. M. Nicola para o trabalho de inteligência artificial.
+Código implementado por: Rodrigo S. Hirama e Victor G. O. M. Nicola para o trabalho de inteligência artificial.
 
-Espera-se que o código seja autoexplicativo, mas qualquer dúvida entre em contato com alguns dos autores ou estude mais.
-
+O arquivo som_training contém a função que implementa a rede neural e o arquivo README SOM explica a implementação e utilização do algoritmo para a tarefa de clusterização de textos coletados de diferentes corpora.
